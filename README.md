@@ -5,3 +5,4 @@ It has some certain features like:
 - Deleting old ones
 - Scrolling up and down
 You can find the app on this link: https://expo.dev/@/projects/todo-app.
+Install Expo Go to use it on your phone as it is available on the above link in development mode.
